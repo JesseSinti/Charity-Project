@@ -1,0 +1,26 @@
+h1 {
+color: aqua;
+font-family:'Helvetica';
+}
+p {
+    color:green;
+    font-family:'Times New Roman', Times, serif
+}
+.highlight {
+ background-color: yellowgreen;
+ list-style-type: square;
+ padding: 10px;
+ margin: 10px;
+}
+#main-title {
+    color: red;
+    background-color: black;
+}
+
+#Superbowlwin {
+    border: 15px;
+}
+.stats {
+    background-color: azure;
+    color: antiquewhite;
+}
