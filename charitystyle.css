@@ -3,14 +3,14 @@
     height: 25%;
 }
 #infotxt {
-    font-size: 12pt;
+    font-size: 20px;
     color:red;
 
 }
 .body {
     background: linear-gradient(red,white);
 }
-h1 {
+.heading {
     color: antiquewhite;
 }
 .poorkids {
